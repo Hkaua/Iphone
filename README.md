@@ -1,4 +1,6 @@
 ## Iphone 📱
+![image](https://github.com/Hkaua/Iphone/assets/115200562/6014677f-67ca-4bf2-844f-b01428200e28)
+
 
 ## Descrição do Projeto
 Este é um projeto de um clone da página inicial do iPhone, desenvolvido utilizando as seguintes linguagens:
