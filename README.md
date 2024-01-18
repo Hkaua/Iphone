@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 Este é um projeto de um clone da página inicial do iPhone, desenvolvido utilizando as seguintes linguagens:
-
+ 
 > JavaScript  <br>
 > HTML <br>
 > CSS <br>
